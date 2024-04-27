@@ -1,5 +1,5 @@
 ## SHUB INTERN TEST FOR FRONTEND DEV
-This is a entrance test for frontend developer position of SHUB TECHNOLOGY JSC
+This is a entrance test for frontend developer intern position of SHUB TECHNOLOGY JSC
 
 For task 1 and task 3: I use javascript running through nodejs
 
