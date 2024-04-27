@@ -1,0 +1,12 @@
+
+.swiper-wrapper {
+    height: 396px !important;
+}
+.swiper-slide {
+    display: flex;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    display: none;
+}
